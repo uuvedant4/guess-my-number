@@ -8,5 +8,5 @@ A number guessing game made with javascript, css and html.
 - Check number of guesses
 - Check highest guess score
 
-> <img src="https://github.com/somekindofwallflower/complete-javascript-course-2021/blob/master/05-Guess-My-Number/guess_my_number.gif" />
+>                        <img src="https://github.com/somekindofwallflower/complete-javascript-course-2021/blob/master/05-Guess-My-Number/guess_my_number.gif" />
 
